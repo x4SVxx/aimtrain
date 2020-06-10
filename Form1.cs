@@ -78,7 +78,7 @@ namespace aimtrain
 
         private void button1_Click(object sender, EventArgs e)
         {
-            form2.Show();
+            form2.Show();          
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -113,7 +113,7 @@ namespace aimtrain
             Random randg = new Random();
             Random randb = new Random();
 
-            x = (rand.Next() % (pictureBox1.Width)) + (rand2.Next() % 20);
+            x = (rand.Next() % (pictureBox1.Width)) + (rand.Next() % 20);
             y = (rand2.Next() % (pictureBox1.Height)) + (rand.Next() % 20);
 
             int red = randr.Next() % 255;

@@ -58,7 +58,7 @@ namespace aimtrain
             Random rand = new Random();
             Random rand2 = new Random();
 
-            x = (rand.Next() % (pictureBox1.Width)) + (rand2.Next() % 20);
+            x = (rand.Next() % (pictureBox1.Width)) + (rand.Next() % 20);
             y = (rand2.Next() % (pictureBox1.Height)) + (rand.Next() % 20);
 
             bool ch = true;
