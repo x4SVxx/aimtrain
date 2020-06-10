@@ -1,0 +1,13 @@
+E:\aimtrain\bin\Debug\aimtrain.exe.config
+E:\aimtrain\bin\Debug\aimtrain.exe
+E:\aimtrain\bin\Debug\aimtrain.pdb
+E:\aimtrain\obj\Debug\aimtrain.csprojAssemblyReference.cache
+E:\aimtrain\obj\Debug\aimtrain.Form1.resources
+E:\aimtrain\obj\Debug\aimtrain.Properties.Resources.resources
+E:\aimtrain\obj\Debug\aimtrain.csproj.GenerateResource.cache
+E:\aimtrain\obj\Debug\aimtrain.exe
+E:\aimtrain\obj\Debug\aimtrain.pdb
+E:\aimtrain\obj\Debug\aimtrain.Form2.resources
+E:\aimtrain\obj\Debug\aimtrain.Form3.resources
+E:\aimtrain\obj\Debug\aimtrain.Form4.resources
+E:\aimtrain\obj\Debug\aimtrain.Form5.resources
