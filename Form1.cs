@@ -149,6 +149,9 @@ namespace aimtrain
             {
                 coords.RemoveAt(0);
                 rad.RemoveAt(0);
+                r.RemoveAt(0);
+                g.RemoveAt(0);
+                b.RemoveAt(0);
             }
 
             coords.Add(new Point() { X = x, Y = y });
